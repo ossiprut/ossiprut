@@ -2,7 +2,6 @@
 
 ### I code
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ossiprut&label=Profile views&color=0e75b6&style=flat" alt="ossiprut" /> </p>
 
 - ⚡ Fun fact **I think I am funny**
 
